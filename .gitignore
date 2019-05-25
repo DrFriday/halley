@@ -67,7 +67,5 @@ _ReSharper*/
 /gen/
 
 # Unpacked assets
-src/tests/audio/assets_unpacked/
-src/tests/entity/assets_unpacked/
-src/tests/network/assets_unpacked/
+assets_unpacked/
 
