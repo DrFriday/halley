@@ -1,0 +1,10 @@
+---
+timelines:
+  variableUpdate:
+    - SpawnSprite
+    - Time
+    - Movement
+    - SpriteAnimation
+  render:
+    - Render
+...
